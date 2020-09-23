@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminresponsive",
+    "name": "codica-studio/adminresponsive",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminresponsive",
+    "homepage": "https://github.com/codica-studio/adminresponsive",
     "license": "MIT",
     "authors": [
         {
